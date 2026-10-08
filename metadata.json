@@ -1,0 +1,7 @@
+{
+  "name": "Ratio City × LEVERAI | Customer Journey Simulation",
+  "description": "An interactive, cinematic customer-journey reconstruction exploring what happens before, during, and after retail technology transactions at Ratio City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
